@@ -1,1 +1,2 @@
 # mySkillProject1
+Hello Fred Cheung. If you are reading this text, this  message for you, I created this new repository with the  practical purpose  and for work on mistakes I did with the first asssesent task
